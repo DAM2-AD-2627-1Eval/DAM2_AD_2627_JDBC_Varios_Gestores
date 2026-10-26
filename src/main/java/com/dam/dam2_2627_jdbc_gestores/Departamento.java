@@ -1,4 +1,4 @@
-package com.dam.dam2_2526_jdbc_gestores;
+package com.dam.dam2_2627_jdbc_gestores;
 
 public class Departamento {
 	
